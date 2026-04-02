@@ -7,13 +7,9 @@ The project is based on an online tutorial, with custom improvements including:
 - improved dashboard layout and visual clarity  
 - implementation using MySQL instead of SQL Server  
 
----
-
 ## Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
-
----
 
 ## Objective
 
@@ -23,7 +19,6 @@ To analyse sales performance and identify:
 - unprofitable items  
 - pricing improvement opportunities  
 
----
 
 ## Data Preparation (MySQL)
 - Database setup (MySQL schema and data import)
