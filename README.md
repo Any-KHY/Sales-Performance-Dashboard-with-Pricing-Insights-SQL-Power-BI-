@@ -22,8 +22,8 @@ To analyse sales performance and identify:
 
 ## Data Preparation (MySQL)
 - Database setup (MySQL schema and data import)
-- Data integration (combining 2023–2025 datasets)
-- Data cleaning (handling missing values and inconsistencies)
+- Data integration (combining 2023–2025 orders and the other datasets)
+- Data cleaning (handling missing values and format inconsistencies)
 - Data transformation (feature creation such as Week_Date, Profit)
 
 ## Dashboard (Power BI)
