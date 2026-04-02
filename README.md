@@ -9,7 +9,7 @@ The project is based on an online tutorial, with custom improvements including:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.PNG)
 
 ## Objective
 
